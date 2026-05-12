@@ -114,11 +114,6 @@ npm run build         # Tenta compilar (pode falhar, é ok por enquanto)
 
 ## 🚀 Próximos Passos
 
-### Step 02 — Primeiro Microserviço com Fastify
-- Criar `src/index.ts` com Fastify
-- Implementar rotas REST básicas para gerenciar produtos
-- Testar com `npm run dev` no product-service
-
 ### Step 03 — Segundo Microserviço
 - Criar `apps/order-service/` seguindo o mesmo padrão
 - Rodar os dois serviços em portas diferentes
