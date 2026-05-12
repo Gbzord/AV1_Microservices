@@ -1,4 +1,4 @@
-Step 01: Configuração do Monorepo + product-service
+## Configuração do Monorepo + product-service
 ---
 🎯 Objetivo
 Criar a estrutura base do projeto usando npm workspaces, uma funcionalidade nativa do npm que permite gerenciar múltiplos pacotes em um único repositório (monorepo). Além de criar primeiro microserviço product-service.
